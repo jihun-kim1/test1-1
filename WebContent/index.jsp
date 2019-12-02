@@ -40,7 +40,7 @@
 			<div id="logined_box">
 				<h2>Welcome</h2>
 				<div>${loginInfo}님환영합니다.</div>
-				<input type="button" value="로그아웃" id=logout> <input
+				<input type="button" value="로그아웃하기" id=logout> <input
 					type="button" value="탈퇴하기" id=memberout> <input type="button"
 					value="수정하기" id=modify> <input type="button"
 					value="나의 정보" id=myInfo> <input type="button" value="게시판"
